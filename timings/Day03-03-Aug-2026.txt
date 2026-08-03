@@ -1,0 +1,4 @@
+2 hours - Practice linux commnads
+1 hour - Learned about the find, head, tail command with options
+1 hour - Learned about the top, htop commands
+
