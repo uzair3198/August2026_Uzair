@@ -1,5 +1,5 @@
 15 min - AWS account setup
 30 min - EC2 instance
 2 hours - linux commands practice
-1 hour - ip address and subnet
+1 hour - ip address
 2 hours - Github to EC2 video
