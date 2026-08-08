@@ -1,0 +1,3 @@
+3 hours - AWS video
+3 hours - Learning AWS services(S3, Session Manager, Route 53, Cloud Trail, Cloud Watch and etc...)
+1 hour - Communication skills
