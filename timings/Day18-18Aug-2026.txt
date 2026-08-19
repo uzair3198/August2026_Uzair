@@ -1,0 +1,3 @@
+3 hours - Kebernetes helm  video.
+3 hours - Kubernetes helm Practical.
+1 hour - Communication Skills.
